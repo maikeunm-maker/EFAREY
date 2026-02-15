@@ -1122,4 +1122,5 @@ def method():
 if __name__ == "__main__":
     sys.stdout.write('\x1b]2; EX XD\x07')
     install_dependencies()
+
     method()
